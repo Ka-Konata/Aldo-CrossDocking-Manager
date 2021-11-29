@@ -6,10 +6,10 @@ Get all products that Aldo makes available *(almost fifteen thousand products)* 
  
 ## functions:
 
-- [ ] Get all products from Aldo's API.
-- [ ] Delete deprecated products.
-- [ ] Actualize the database daily.
-- [ ] Send notifications.
-- [ ] Config page to configure the plugin.
+- [x] Get all products from Aldo's API.
+- [x] Delete deprecated products.
+- [x] Actualize the database daily.
+- [x] Send notifications.
+- [x] Config page to configure the plugin.
 - [ ] Check the actual product's balance.
 - [ ] Request the purchases.
